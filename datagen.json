@@ -1,0 +1,247 @@
+[
+    {
+      "objId": "86fca290",
+      "MaxRecords": 2000,
+      "FileName": "general_demographics.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "8b369d80",
+      "MaxRecords": 100,
+      "FileName": "general_adhoc_1.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "8b369d80",
+      "MaxRecords": 100,
+      "FileName": "general_adhoc_2.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "8b369d80",
+      "MaxRecords": 100,
+      "FileName": "general_adhoc_3.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "67c5ac30",
+      "MaxRecords": 100,
+      "FileName": "general_jbevent_1.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "67c5ac30",
+      "MaxRecords": 100,
+      "FileName": "general_jbevent_2.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "67c5ac30",
+      "MaxRecords": 100,
+      "FileName": "general_jbevent_3.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "67c5ac30",
+      "MaxRecords": 100,
+      "FileName": "general_jbevent_4.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "67c5ac30",
+      "MaxRecords": 100,
+      "FileName": "general_jbevent_5.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "f1855550",
+      "MaxRecords": 100,
+      "FileName": "general_predictive_scores.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "11e71fd0",
+      "MaxRecords": 800,
+      "FileName": "makana_appointments.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "ccf75ef0",
+      "MaxRecords": 300,
+      "FileName": "makana_cart.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "e5428a80",
+      "MaxRecords": 600,
+      "FileName": "makana_claims.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "cd7ecc70",
+      "MaxRecords": 501,
+      "FileName": "makana_doctors.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "839e1cb0",
+      "MaxRecords": 700,
+      "FileName": "makana_plan_subscription.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "839e1cb0",
+      "MaxRecords": 700,
+      "FileName": "makana_plan_subscriptions.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "ff3be8c0",
+      "MaxRecords": 201,
+      "FileName": "nto_abandons.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "06cd27b0",
+      "MaxRecords": 201,
+      "FileName": "nto_purchases.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "f73d4040",
+      "MaxRecords": 201,
+      "FileName": "nto_views.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "c075d230",
+      "MaxRecords": 201,
+      "FileName": "nto_orders.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "914332a0",
+      "MaxRecords": 5,
+      "FileName": "nto_product.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "f693b460",
+      "MaxRecords": 200,
+      "FileName": "nto_recommendations.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "33e12b30",
+      "MaxRecords": 201,
+      "FileName": "nto_reviews.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "e8b66a20",
+      "MaxRecords": 201,
+      "FileName": "nto_shipments.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "f9f89390",
+      "MaxRecords": 200,
+      "FileName": "tinker_demographics.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "089a0ad0",
+      "MaxRecords": 301,
+      "FileName": "tinker_orders.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "9e820db0",
+      "MaxRecords": 800,
+      "FileName": "dmcreator-makana-provider-demographics.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "eb435c30",
+      "MaxRecords": 200,
+      "FileName": "dmcreator-makana-provider-claims.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "528a5e90",
+      "MaxRecords": 300,
+      "FileName": "dmcreator-makana-provider-subscriptions.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "c48ba550",
+      "MaxRecords": 500,
+      "FileName": "dmcreator-makana-provider-appointments.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "1835b790",
+      "MaxRecords": 800,
+      "FileName": "cvs_member.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "86fca290",
+      "MaxRecords": 800,
+      "FileName": "experts_journeys_1.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "86fca290",
+      "MaxRecords": 800,
+      "FileName": "experts_journeys_2.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "86fca290",
+      "MaxRecords": 800,
+      "FileName": "experts_journeys_3.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    },
+    {
+      "objId": "86fca290",
+      "MaxRecords": 800,
+      "FileName": "experts_journeys_4.csv",
+      "Project": "general",
+      "objKey": "4842f9e0"
+    }
+  ]

@@ -1,0 +1,37 @@
+[
+    {
+        "name":"makane",
+        "project":"general",
+        "files": "makana* general_demographics.csv"
+    },
+    {
+        "name":"tinker",
+        "project":"general",
+        "files": "tinker*"
+    },
+    {
+        "name":"general",
+        "project":"general",
+        "files":"general*"
+    },
+    {
+        "name":"nto",
+        "project":"general",
+        "files":"nto*"
+    },
+    {
+        "name":"dmcreator9000-makana-provider",
+        "project":"general",
+        "files":"dmcreator-makana-provider*"
+    },
+    {
+        "name":"cvs",
+        "project":"general",
+        "files":"cvs_*"
+    },
+    {
+        "name":"experts_journeys",
+        "project":"general",
+        "files":"experts_journeys_*"
+    }
+]
